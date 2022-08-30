@@ -1,5 +1,5 @@
 {
-  "address": "0xA95F42B5954553146568d38698176A1B5DF0E61a",
+  "address": "0x23F297010Ec8b372E53cA41B6c17b490516D9f3B",
   "abi": [
     { "type": "constructor", "payable": false, "inputs": [] },
     {
@@ -243,7 +243,7 @@
         { "type": "address", "name": "from" },
         { "type": "address", "name": "to" },
         { "type": "uint256", "name": "tokenId" },
-        { "type": "bytes", "name": "_data" }
+        { "type": "bytes", "name": "data" }
       ],
       "outputs": []
     },
